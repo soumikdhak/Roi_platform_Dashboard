@@ -8,7 +8,7 @@ React (TypeScript) dashboard for the ROI Platform investment and referral system
  
 ```bash
 git clone https://github.com/soumikdhak/Roi_platform_Dashboard.git
-cd roi-platform-frontend
+cd Roi_platform_Dashboard
 npm install
 ```
  
